@@ -1,4 +1,4 @@
-# Crud
+# Todo-list
 
 ## Lista de tarefas com django, django rest framework e vue.js
 
