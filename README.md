@@ -7,8 +7,8 @@
 Abra o windows powershell na pasta que deseja clonar o projeto
 
 ```bash
-git clone https://github.com/guilhermelbo/crud
-cd crud
+git clone https://github.com/guilhermelbo/todo-list
+cd todo-list
 ```
 ### Para executar o servidor:
 
